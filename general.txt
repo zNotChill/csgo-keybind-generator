@@ -1,0 +1,12 @@
+bind w "+forward";
+bind a "+moveleft";
+bind s "+back";
+bind d "+moveright";
+
+bind = "god";
+bind v "noclip";
+bind # "kill";
+
+bind r reload;
+bind q "";
+bind ] "";

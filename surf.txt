@@ -1,0 +1,4 @@
+
+bind r "say !r confirm";
+bind q "say !end";
+bind ] "sv_cheats 1;bot_kick;mp_limitteams 8;mp_autoteambalance 0;mp_roundtime 999;cl_showpos 1;mp_round_restart_delay 3;gods";
